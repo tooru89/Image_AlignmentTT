@@ -6,7 +6,7 @@ It corrects for positional misalignments between stack images.
 
 
 ##Description
-ImageJ Plugin "Image_AligmentTT.java" corrects for positional misalignments between stack images (not between 2 channels).  This plugin supports only 2 channels stack images. Calculation of the reference points for correcting the position is performed only with the images of the second channel.
+ImageJ Plugin "Image_AlignmentTT.java" corrects for positional misalignments between stack images (not between 2 channels).  This plugin supports only 2 channels stack images. Calculation of the reference points for correcting the position is performed only with the images of the second channel.
 
 ##Author
 Tooru Takahashi
@@ -19,7 +19,7 @@ ttakahashi@mth.biglobe.ne.jp
 Image_AlignmentTT.java
 
 ##Installation
-Download "Image_AligmentTT.java" to the plugins folder or subfolder, and compile it with the "Compile and Run" command. Restart ImageJ to add the "Image Alignment" command to the Plugins menu. For more information see: http://imagej.net/
+Download "Image_AlignmentTT.java" to the plugins folder or subfolder, and compile it with the "Compile and Run" command. Restart ImageJ to add the "Image Alignment" command to the Plugins menu. For more information see: http://imagej.net/
 
 ##Procedures
 1. "Image_AlignmentTT.java" requires 2 channels stack images as an input. First, you have to open 2 channels stack images.
